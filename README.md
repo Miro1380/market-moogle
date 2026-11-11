@@ -2,13 +2,15 @@
 
 A Discord bot for Final Fantasy XIV market board prices, kupo.
 
+**[Add Market Moogle to your server](https://discord.com/oauth2/authorize?client_id=1565030459727945738)**
+
 - `/price`, `/cheapest`, `/history` and `/craft` look up prices and crafting profit
 - `/track`, `/alert` and `/undercut` watch items and send you a DM when a price moves
 - `/help` explains the rest
 
 Market data comes from [Universalis](https://universalis.app) and item data from
-[XIVAPI](https://xivapi.com). Market Moogle is a fan project and is not affiliated with Square
-Enix.
+[XIVAPI](https://xivapi.com). Market Moogle is a fan project and is not affiliated with or endorsed
+by Square Enix. FINAL FANTASY XIV © SQUARE ENIX CO., LTD.
 
 ## Policies
 
